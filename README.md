@@ -5,7 +5,7 @@
 - 📫 How to reach me: by phone (+94776942199) or email
 - 🥼 I have experience working with the following languages: C#, Rust, PL/pgSQL, Python, JS, Java, VB (.net), PHP, PowerShell
 - ⚙ I have experience configuring the following things: SSH automation, WireGuard, Apache2.
-- 🧑‍💻 Familiar technologies: WebRTC, VNC, SQLite, PostgreSQL, Eto.Forms, LINQ, LLMs and ML models, SciPy, Pandas and SymPy.
+- 🧑‍💻 Familiar technologies: WebRTC, VNC, SQLite, PostgreSQL, Eto.Forms, LINQ, LLMs, Vectors, RAGs and ML models, SciPy, Pandas and SymPy.
 - 🔧 I test my software routinely on and debug on: 👹 FreeBSD, 🐧 GNU/Linux, 🚩 NetBSD, 🪟 Microsoft Windows (R) Native.
 
 (Please see my contributions for evidence)
