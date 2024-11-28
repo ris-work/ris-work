@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Rishikeshan Sulochana/Lavakumar . <!-- Please see @ris-home and @ris-public too! -->
 - 👀 I’m interested in networking (WebRTC), cryptography (see my paper), P2P networks and auditable database (RDBMS/ACID) designs.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently looking forward to working with you!
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: by phone (+94776942199) or email
+- 🥼 I have experience working with the following languages: C#, Rust, PL/pgSQL, Python, JS, Java, VB (.net), PHP, PowerShell
+- ⚙ I have experience configuring the following things: SSH automation, WireGuard, Apache2.
+- 🧑‍💻 Familiar technologies: WebRTC, VNC, SQLite, PostgreSQL, Eto.Forms, LINQ, LLMs and ML models, SciPy, Pandas and SymPy.
+- 🔧 I test my software routinely on and debug on: 👹 FreeBSD, 🐧 GNU/Linux, 🚩 NetBSD, 🪟 Microsoft Windows (R) Native.
+
+(Please see my contributions for evidence)
 
 <!---
 ris-work/ris-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
