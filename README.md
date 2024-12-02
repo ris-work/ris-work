@@ -53,3 +53,8 @@ You can click the Preview link to take a look at your changes.
 It can do time-series spectral analysis!
 ![ba_sa](https://github.com/user-attachments/assets/8ce23b8c-9ba3-4c2a-9642-340389902a42)
 
+### Screen in NVR
+Register your computer screen as an ONVIF camera, for NVR (the example here is Dahua NVR), you can record and playback:
+
+![onvif_nvr](https://github.com/user-attachments/assets/7f6f9a3e-b51c-4fb1-a494-380ea5d5dc56)
+
