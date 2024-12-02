@@ -10,10 +10,13 @@
 - 🪲 Debuggers: GDB, CheatEngine
 - 𓀨 Hardware: Raspberry Pi 3, 4, Radxa X2L, Arduino, AllWinner D1 (RISC-V/C906) series
 
-(Please see my contributions for evidence)
+
+
+
 
 <!---
-ris-work/ris-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ris-work/ris-work
+k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -34,3 +37,19 @@ You can click the Preview link to take a look at your changes.
 <img height=40 src="https://cdn.simpleicons.org/fossilscm/777777"></img>
 <img height=40 src="https://cdn.simpleicons.org/riscv/1199bb"></img>
 <img height=40 src="https://cdn.simpleicons.org/webrtc/ffffff"></img>
+
+(Please see my contributions for evidence)
+
+### Health Monitor / Health Monitor Log Viewer:
+
+(It does discrete time-series differentiation for calculating CPU load, reencoded in VP8)
+
+[hmlv.webm](https://github.com/user-attachments/assets/f5300c09-1fa0-4059-ab8e-8dec13f79a48)
+
+
+### Business Analytics System:
+![ba](https://github.com/user-attachments/assets/bf7cdd1e-c32f-4a8c-96a2-e46743451b05)
+
+It can do time-series spectral analysis!
+![ba_sa](https://github.com/user-attachments/assets/8ce23b8c-9ba3-4c2a-9642-340389902a42)
+
